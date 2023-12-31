@@ -1,0 +1,15 @@
+{
+  "name": "simple-chess-with-ai-and-ui-master",
+  "version": "1.0.0",
+  "description": "\"AI\" sounds too big for what it actually is, but yea, you can play chess against bot (Normal calculation mode only, other modes are broken) in a browser window. Even though it's so far from perfect, it's a challenge to write chess from scratch. And I've completed it.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
