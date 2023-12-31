@@ -1,6 +1,6 @@
 # Simple Chess with AI and UI
 
-"AI" sounds too big for what it actually is, but yea, you can play chess against bot (Normal calculation mode only, other modes are broken) in a browser window. Even though it's so far from perfect, it's a challenge to write chess from scratch. And I've completed it.
+Referring to it as 'AI' might seem a bit grandiose for its actual capabilities, but indeed, you can play chess against a bot in a browser window, though currently only in the standard calculation mode as the other modes need some fixing. While it's not flawless, crafting a chess game from scratch is a significant challenge, and I'm proud to have achieved it.
 "# Chess-Game-Vs-AI" 
 "# Chess-Game-Vs-AI" 
 "# Chess-Game-Vs-AI" 
