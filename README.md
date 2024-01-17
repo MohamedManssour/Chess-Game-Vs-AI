@@ -6,3 +6,7 @@ Referring to it as 'AI' might seem a bit grandiose for its actual capabilities, 
 "# Chess-Game-Vs-AI" 
 "# Chess-Game-Vs-AI" 
 "# Chess-Game-Vs-AI" 
+
+# Play The Game
+
+https://mohamedmanssour.github.io/Chess-Game-Vs-AI/
